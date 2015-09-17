@@ -143,11 +143,6 @@ td, th {
   padding: 0; }
 
 @font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local("Open Sans"), local("OpenSans"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format("woff"); }
-@font-face {
   font-family: "Agency FB";
   font-style: normal;
   font-weight: 400;
@@ -246,7 +241,6 @@ header {
     display: table-cell;
     width: 50%;
     font-family: Agency FB;
-    color: white;
     background: red;
     z-index: 3; }
   header #login {
